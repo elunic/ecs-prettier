@@ -1,9 +1,10 @@
 {
   "name": "@elunic/ecs-prettier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The elunic coding styles for Prettier",
   "files": [
     "prettier/",
+    "index.js",
     "LICENSE",
     "README.md"
   ],
