@@ -1,1 +1,1 @@
-require('./prettier');
+module.exports = require('./prettier');
