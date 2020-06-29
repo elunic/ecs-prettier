@@ -1,6 +1,6 @@
 {
   "name": "@elunic/ecs-prettier",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "The elunic coding styles for Prettier",
   "files": [
     "prettier/",
@@ -44,6 +44,9 @@
     "lint-staged": "^8.1.0"
   },
   "dependencies": {
+    "prettier": "^2.0.5"
+  },
+  "peerDependencies": {
     "prettier": "^2.0.5"
   },
   "publishConfig": {
